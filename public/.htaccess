@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Ensure that the 'public' directory is being used to serve Laravel files
+    RewriteRule ^(.*)$ public/$1 [L]
+
+    # Redirect all non-file requests to the index.php file
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+
+    # Allow browser to cache assets for a period of time (optional)
+    # Set expiry date for static assets
+    <FilesMatch "\.(jpg|jpeg|png|gif|css|js|pdf|svg|eot|otf|ttf|woff|woff2|mp4|webm|ogg|mp3|zip|tar|gz|rar|exe|apk|tar\.gz|gzip|html)$">
+        Header set Cache-Control "public, max-age=31536000"
+    </FilesMatch>
+
+</IfModule>
+
+# Disable directory listing (optional but recommended)
+Options -Indexes
