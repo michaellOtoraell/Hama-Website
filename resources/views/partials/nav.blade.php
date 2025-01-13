@@ -7,11 +7,11 @@
 				        <div class="container">
 
 				            <!-- Start Header Navigation -->
-				            <div class="navbar-header">
+				            <div class="navbar-header scroll">
 				                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 				                    <i class="fa fa-bars"></i>
 				                </button>
-                            <a href="#" class="navbar-brand">
+                            <a href="#home" class="navbar-brand">
 								<img src="assets/images/logo/hamalogo.png" alt="brand-image" width="100"/>
 							</a>
 

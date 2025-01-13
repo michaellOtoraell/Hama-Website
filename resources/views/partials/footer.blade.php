@@ -26,9 +26,9 @@
 								<h2>Our services</h2>
 								<ul>
 									<li><a href="#">about us</a></li>
-									<li><a href="#">career</a></li>
-									<li><a href="#">terms <span> of service</span></a></li>
-									<li><a href="#">privacy policy</a></li>
+									<li><a href="">career</a></li>
+									<li><a href="">terms <span> of service</span></a></li>
+									<li><a href="">privacy policy</a></li>
 								</ul>
 							</div>
 						</div>
@@ -74,10 +74,14 @@
                                         <h2>follow us</h2>
                                         <div class="row">
                                             <div class=" col-xs-6 footer-social">
-                                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                {{-- <a href="#"><i class="fa fa-facebook"></i></a>
+                                                <a href="#"><i class="fa fa-instagram"></i></a> --}}
+                                                  <a href="https://x.com/hama_ltd80398" target="_blank">
+                                                    <i class="fa fa-twitter"></i>
+                                                  </a>
+                                                  <a href="https://www.linkedin.com/in/hama-group-of-companies-ltd-94040b343" target="_blank">
+                                                    <i class="fa fa-linkedin"></i>
+                                                  </a>
                                             </div>
                                         </div>
                                     </div>
@@ -90,7 +94,7 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<p>
-								&copy; copyright.designed and developed by <a href="#">Michael .O</a>.
+								&copy; Designed and developed by <a href="mailto:michaelotorael4@gmail.com"> Michael .O</a>.
 							</p><!--/p-->
 						</div>
 					</div>

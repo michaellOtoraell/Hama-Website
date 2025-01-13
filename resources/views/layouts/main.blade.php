@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
 
     <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- Additional Styles -->
     @stack('styles')
