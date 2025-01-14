@@ -25,10 +25,10 @@
 							<div class="single-footer-widget">
 								<h2>Our services</h2>
 								<ul>
-									<li><a href="#">about us</a></li>
-									<li><a href="">career</a></li>
-									<li><a href="">terms <span> of service</span></a></li>
-									<li><a href="">privacy policy</a></li>
+									<li class="scroll active"><a href="#home">about us</a></li>
+									<li><a>career</a></li>
+									<li><a>terms <span> of service</span></a></li>
+									<li><a>privacy policy</a></li>
 								</ul>
 							</div>
 						</div>
@@ -77,10 +77,10 @@
                                                 {{-- <a href="#"><i class="fa fa-facebook"></i></a>
                                                 <a href="#"><i class="fa fa-instagram"></i></a> --}}
                                                   <a href="https://x.com/hama_ltd80398" target="_blank">
-                                                    <i class="fa fa-twitter"></i>
+                                                    <i class="fa-brands fa-x-twitter"></i>
                                                   </a>
                                                   <a href="https://www.linkedin.com/in/hama-group-of-companies-ltd-94040b343" target="_blank">
-                                                    <i class="fa fa-linkedin"></i>
+                                                    <i class="fa-brands fa-linkedin"></i>
                                                   </a>
                                             </div>
                                         </div>

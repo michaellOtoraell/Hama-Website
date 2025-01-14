@@ -6,6 +6,47 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
+    <!-- Primary Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="HAMA Group of Companies - Professional IT Services, Branding & More">
+    <meta name="description" content="Connect with HAMA Group of Companies for professional IT services, stationery, branding, graphics, printing, packaging, and digital design solutions. Quality and innovation are our priorities. Contact us via email, phone, or social media.">
+    <meta name="keywords" content="HAMA, Hama Group, IT Services, Branding, Stationery, Graphics, Printing, Packaging, Digital Designs, Business Solutions, Professional Branding, Contact HAMA">
+    <meta name="author" content="HAMA Group of Companies">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="language" content="English">
+    <meta name="distribution" content="global">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://www.hamageneralsupplies.co.tz/">
+    <meta name="twitter:title" content="HAMA Group of Companies - Professional IT Services">
+    <meta name="twitter:description" content="HAMA Group of Companies provides IT services, branding, printing, and design solutions. Reach us at +255 715281111 or info@hamageneralsupplies.co.tz.">
+    <meta name="twitter:image" content="https://www.hamageneralsupplies.co.tz/images/twitter-preview.png">
+
+    <!-- Additional Tags -->
+    <link rel="canonical" href="https://www.hamageneralsupplies.co.tz/">
+    <meta name="theme-color" content="#1A73E8">
+    <meta name="apple-mobile-web-app-title" content="HAMA">
+    <meta name="application-name" content="HAMA Group">
+    <meta name="subject" content="HAMA Group provides IT services, branding, printing, packaging, and design solutions.">
+    <meta name="rating" content="General">
+    <meta name="revisit-after" content="7 days">
+    <meta name="expires" content="never">
+
+    <!-- Contact Information -->
+    <meta name="contact:email" content="info@hamageneralsupplies.co.tz">
+    <meta name="contact:email" content="hama.general50@yahoo.com">
+    <meta name="contact:phone" content="+255715281111">
+    <meta name="contact:phone" content="+255767567324">
+
+    <!-- Social Media -->
+    <meta property="social:twitter" content="https://x.com/hama_ltd80398">
+    <meta property="social:linkedin" content="https://www.linkedin.com/in/hama-group-of-companies-ltd-94040b343">
+
+
     <title>{{ config('app.name', 'Hama Group') }} - @yield('title')</title>
 
     <!-- Fonts -->
@@ -28,7 +69,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 
     <!-- Additional Styles -->
     @stack('styles')

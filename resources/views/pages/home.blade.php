@@ -139,7 +139,7 @@
                             <div class="row">
                                 <div class="col-md-7 col-sm-12">
                                     <div class="new-cars-img">
-                                        <img src="assets/images/new-cars-model/stationary.jpg" alt="img"/>
+                                        <img src="assets/images/new-cars-model/printing.jpg" alt="img"/>
                                     </div><!--/.new-cars-img-->
                                 </div>
                                 <div class="col-md-5 col-sm-12">
@@ -198,7 +198,7 @@
                             <div class="row">
                                 <div class="col-md-7 col-sm-12">
                                     <div class="new-cars-img">
-                                        <img src="assets/images/new-cars-model/printing.jpg" alt="img"/>
+                                        <img src="assets/images/new-cars-model/stationary.jpg" alt="img"/>
                                     </div><!--/.new-cars-img-->
                                 </div>
                                 <div class="col-md-5 col-sm-12">
