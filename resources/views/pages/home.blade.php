@@ -4,7 +4,7 @@
 
 	<!--service start -->
     <section id="service" class="service">
-        <div class="container">
+        <div class="container" style="padding-top: 1%">
             <div class="service-content">
                 <div class="section-header">
                     <p><small> Hama group of companies </small></p>

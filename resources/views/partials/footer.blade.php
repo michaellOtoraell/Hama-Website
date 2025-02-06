@@ -94,7 +94,7 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<p>
-								&copy; Designed and developed by <a href="mailto:michaelotorael4@gmail.com"> Michael .O</a>.
+								&copy; Email the Developer <a href="mailto:michaelotorael4@gmail.com"> Michael .O</a>.
 							</p><!--/p-->
 						</div>
 					</div>
