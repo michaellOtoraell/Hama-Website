@@ -31,7 +31,7 @@
     <meta name="theme-color" content="#1A73E8">
     <meta name="apple-mobile-web-app-title" content="HAMA">
     <meta name="application-name" content="HAMA Group">
-    <meta name="subject" content="HAMA Group provides IT services, branding, printing, packaging, and design solutions.">
+    <meta name="subject" content="HAMA Group provides IT services, hama, hamagroup, hama group, branding, printing, packaging, and design solutions.">
     <meta name="rating" content="General">
     <meta name="revisit-after" content="7 days">
     <meta name="expires" content="never">
@@ -47,7 +47,7 @@
     <meta property="social:linkedin" content="https://www.linkedin.com/in/hama-group-of-companies-ltd-94040b343">
 
 
-    <title>{{ config('app.name', 'Hama Group') }} - @yield('title')</title>
+    <title>{{ config('app.name', 'Hama Group') }}  @yield('title')</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">

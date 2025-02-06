@@ -83,70 +83,7 @@
 			</div>
 
 			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="model-search-content">
-							<div class="row">
-								<div class="col-md-offset-1 col-md-2 col-sm-12">
-									<div class="single-model">
 
-										<div class="model-select">
-
-                                            <h2 style="color: #055f50af">
-                                                Vision
-                                            </h2>
-
-                                            <p style="text-align: justify;">
-                                                To be the leading provider of innovative ICT solutions in Tanzania, driving digital transformation and empowering businesses and communities across the nation.
-                                            </p>
-
-										</div><!-- /.model-select-icon -->
-									</div>
-									<div class="single-model">
-
-										<div class="model-select">
-
-
-										</div><!-- /.model-select-icon -->
-									</div>
-								</div>
-								<div class="col-md-offset-1 col-md-2 col-sm-12">
-									<div class="single-model">
-
-										<div class="model-select">
-
-
-										</div><!-- /.model-select-icon -->
-									</div>
-									<div class="single-model">
-
-										<div class="model-select">
-
-										</div><!-- /.model-select-icon -->
-									</div>
-								</div>
-								<div class="col-md-offset-1 col-md-2 col-sm-12">
-									<div class="single-model">
-
-										<div class="model-select">
-
-                                            <h2 style="color: #055f50af">
-                                                Mission
-                                            </h2>
-
-                                            <p style="text-align: justify;">
-                                                To be the leading provider of innovative ICT solutions in Tanzania, driving digital transformation and empowering businesses and communities across the nation.
-                                            </p>
-
-										</div><!-- /.model-select-icon -->
-									</div>
-									<div class="single-model">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 			</div>
 
 		</section>

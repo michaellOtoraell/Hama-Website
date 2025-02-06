@@ -18,8 +18,7 @@
                             </div>
                             <h2><a href="#">Innovation</a></h2>
                             <p>
-                                We are committed to continuous innovation, leveraging the latest technologies to develop prod-
-                                ucts and solutions that meet the evolving needs of our clients.
+                                We are committed to continuous innovation, leveraging the latest technologies to develop products and solutions that meet the evolving needs of our clients.
                             </p>
                         </div>
                     </div>
